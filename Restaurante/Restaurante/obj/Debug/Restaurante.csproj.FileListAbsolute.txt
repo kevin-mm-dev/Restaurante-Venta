@@ -1,0 +1,10 @@
+C:\Users\nivec\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\nivec\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\nivec\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.frm_Inicial.resources
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\nivec\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
