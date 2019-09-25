@@ -35,9 +35,9 @@
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
-            this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
-            this.lineShape1 = new Microsoft.VisualBasic.PowerPacks.LineShape();
-            this.lineShape2 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            //this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
+            //this.lineShape1 = new Microsoft.VisualBasic.PowerPacks.LineShape();
+            //this.lineShape2 = new Microsoft.VisualBasic.PowerPacks.LineShape();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
