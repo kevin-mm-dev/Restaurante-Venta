@@ -166,31 +166,31 @@
             // 
             // shapeContainer1
             // 
-            this.shapeContainer1.Location = new System.Drawing.Point(0, 0);
-            this.shapeContainer1.Margin = new System.Windows.Forms.Padding(0);
-            this.shapeContainer1.Name = "shapeContainer1";
-            this.shapeContainer1.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
-            this.lineShape2,
-            this.lineShape1});
-            this.shapeContainer1.Size = new System.Drawing.Size(1065, 585);
-            this.shapeContainer1.TabIndex = 7;
-            this.shapeContainer1.TabStop = false;
-            // 
-            // lineShape1
-            // 
-            this.lineShape1.Name = "lineShape1";
-            this.lineShape1.X1 = -1;
-            this.lineShape1.X2 = 334;
-            this.lineShape1.Y1 = 174;
-            this.lineShape1.Y2 = 174;
-            // 
-            // lineShape2
-            // 
-            this.lineShape2.Name = "lineShape2";
-            this.lineShape2.X1 = 67;
-            this.lineShape2.X2 = 402;
-            this.lineShape2.Y1 = 112;
-            this.lineShape2.Y2 = 112;
+            //this.shapeContainer1.Location = new System.Drawing.Point(0, 0);
+            //this.shapeContainer1.Margin = new System.Windows.Forms.Padding(0);
+            //this.shapeContainer1.Name = "shapeContainer1";
+            //this.shapeContainer1.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
+            //this.lineShape2,
+            //this.lineShape1});
+            //this.shapeContainer1.Size = new System.Drawing.Size(1065, 585);
+            //this.shapeContainer1.TabIndex = 7;
+            //this.shapeContainer1.TabStop = false;
+            //// 
+            //// lineShape1
+            //// 
+            //this.lineShape1.Name = "lineShape1";
+            //this.lineShape1.X1 = -1;
+            //this.lineShape1.X2 = 334;
+            //this.lineShape1.Y1 = 174;
+            //this.lineShape1.Y2 = 174;
+            //// 
+            //// lineShape2
+            //// 
+            //this.lineShape2.Name = "lineShape2";
+            //this.lineShape2.X1 = 67;
+            //this.lineShape2.X2 = 402;
+            //this.lineShape2.Y1 = 112;
+            //this.lineShape2.Y2 = 112;
             // 
             // tabControl1
             // 
@@ -646,7 +646,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pnl_Principal_BarraNavegacion);
-            this.Controls.Add(this.shapeContainer1);
+            //this.Controls.Add(this.shapeContainer1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Inventario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -679,9 +679,9 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
-        private Microsoft.VisualBasic.PowerPacks.ShapeContainer shapeContainer1;
-        private Microsoft.VisualBasic.PowerPacks.LineShape lineShape2;
-        private Microsoft.VisualBasic.PowerPacks.LineShape lineShape1;
+        //private Microsoft.VisualBasic.PowerPacks.ShapeContainer shapeContainer1;
+        //private Microsoft.VisualBasic.PowerPacks.LineShape lineShape2;
+        //private Microsoft.VisualBasic.PowerPacks.LineShape lineShape1;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
