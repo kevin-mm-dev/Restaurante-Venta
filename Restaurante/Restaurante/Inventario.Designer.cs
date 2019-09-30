@@ -161,7 +161,7 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "Provedores";
             this.button4.UseVisualStyleBackColor = true;
-            // 
+
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
@@ -648,9 +648,6 @@
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
-        //private Microsoft.VisualBasic.PowerPacks.ShapeContainer shapeContainer1;
-        //private Microsoft.VisualBasic.PowerPacks.LineShape lineShape2;
-        //private Microsoft.VisualBasic.PowerPacks.LineShape lineShape1;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
