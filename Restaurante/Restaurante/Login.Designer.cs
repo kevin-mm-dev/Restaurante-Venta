@@ -31,7 +31,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.lblUser = new System.Windows.Forms.Label();
             this.lblContra = new System.Windows.Forms.Label();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -67,15 +66,6 @@
             this.lblContra.Size = new System.Drawing.Size(80, 16);
             this.lblContra.TabIndex = 1;
             this.lblContra.Text = "Contraseña";
-            // 
-            // dateTimePicker2
-            // 
-            this.dateTimePicker2.CalendarTitleBackColor = System.Drawing.SystemColors.ControlText;
-            this.dateTimePicker2.CalendarTitleForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.dateTimePicker2.Location = new System.Drawing.Point(0, 275);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(200, 20);
-            this.dateTimePicker2.TabIndex = 3;
             // 
             // pictureBox1
             // 
@@ -143,7 +133,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(641, 294);
-            this.Controls.Add(this.dateTimePicker2);
             this.Controls.Add(this.panel1);
             this.Name = "Login";
             this.Text = "Login";
@@ -159,7 +148,6 @@
 
         private System.Windows.Forms.Label lblUser;
         private System.Windows.Forms.Label lblContra;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.TextBox textBox1;
