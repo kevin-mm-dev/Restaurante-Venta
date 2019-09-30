@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Restaurante
 {
-    public partial class Ventas : Form
+    public partial class GenerarVenta : Form
     {
-        public Ventas()
+        public GenerarVenta()
         {
             InitializeComponent();
         }
 
-        private void Label5_Click(object sender, EventArgs e)
+        private void Label7_Click(object sender, EventArgs e)
         {
 
         }
